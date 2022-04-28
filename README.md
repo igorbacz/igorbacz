@@ -5,7 +5,7 @@ Jestem osobą ambitną, pracowitą, odnajdującą się w pracy w zespole oraz po
 Zapraszam do zapoznania się z moim portfolio.
 
 #### Języki & narzędzia:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TS" alt="TS" width="40" height="40"/>
