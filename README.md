@@ -1,8 +1,12 @@
 ### Cześć, jestem Iwona 👋
+Jestem osobą ambitną, pracowitą, odnajdującą się w pracy w zespole oraz pod wpływem stresu. Szybko i chętnie uczę się nowych rzeczy. Każdy nowy problem jest dla mnie motywacją do rozwoju i daje mi okazję do poszerzania swoich horyzontów.  Mój czas wolny przeznaczam na rozwój osobisty, czytanie książek z zakresu psychologii oraz aktywność fizyczną.
+
+👉 Obecnie poszukuję pracy jako Junior Frontend Developer.
+Zapraszam do zapoznania się z moim portfolio.
 
 #### Języki & narzędzia:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="TS" alt="TS" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -18,24 +22,3 @@
   <a href="https://www.linkedin.com/in/iwona-gorbacz-a8aa64184/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-
- 
- 
-
-
-
-<!--
-**igorbacz/igorbacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
