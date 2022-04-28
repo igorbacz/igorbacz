@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
 <!--
 **igorbacz/igorbacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
