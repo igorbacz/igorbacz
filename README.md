@@ -1,7 +1,7 @@
 ### Cześć, jestem Iwona 👋
 Jestem osobą ambitną, pracowitą, odnajdującą się w pracy w zespole oraz pod wpływem stresu. Szybko i chętnie uczę się nowych rzeczy. Każdy nowy problem jest dla mnie motywacją do rozwoju i daje mi okazję do poszerzania swoich horyzontów.  Mój czas wolny przeznaczam na rozwój osobisty, czytanie książek z zakresu psychologii oraz aktywność fizyczną.
 
-👉 Obecnie poszukuję pracy jako Junior Frontend Developer.
+👉 Obecnie poszukuję pracy jako Frontend Developer.
 Zapraszam do zapoznania się z moim portfolio.
 
 #### Języki & narzędzia:
