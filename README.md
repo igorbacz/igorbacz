@@ -1,10 +1,11 @@
-### Cześć, jestem Iwona 👋
-Jestem osobą ambitną, pracowitą, odnajdującą się w pracy w zespole oraz pod wpływem stresu. Szybko i chętnie uczę się nowych rzeczy. Każdy nowy problem jest dla mnie motywacją do rozwoju i daje mi okazję do poszerzania swoich horyzontów.  Mój czas wolny przeznaczam na rozwój osobisty, czytanie książek z zakresu psychologii oraz aktywność fizyczną.
+### Hi 👋
+I'm Iwona, a motivated frontend developer with a growing interest in backend development. I love to learn and work collaboratively, and I specialize in creating intuitive and responsive user interfaces using RactJs, Redux, styled components, MUI Material.
 
-👉 Obecnie poszukuję pracy jako Frontend Developer.
-Zapraszam do zapoznania się z moim portfolio.
+In the future, I aspire to become a fullstack developer, and I'm committed to expanding my knowledge and skills in both frontend and backend development. Whether I'm working on a solo project or collaborating with a team, I'm dedicated to delivering high-quality results that meet the needs of my clients and end-users.
 
-#### Języki & narzędzia:
+As a remote worker, I value flexibility and effective communication, and I'm always looking for new opportunities to connect with other professionals and expand my network. If you're interested in working together, feel free to reach out and let's connect!
+
+#### Proffesional skills:
   <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -15,10 +16,10 @@ Zapraszam do zapoznania się z moim portfolio.
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
    
    
-#### Oprogramowanie & technologie:
+#### Tools:
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>
 
-#### Skontatuj się ze mną:
+#### Contact me:
   <a href="https://www.linkedin.com/in/iwona-gorbacz-a8aa64184/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
